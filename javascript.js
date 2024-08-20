@@ -1,8 +1,7 @@
-function multiplication(x,y){
-    return x*y;
-}
-var resultat1 = multiplication(5,10);
-var resultat2 = multiplication(-4,60);
+var primitive = "je suis une valeur primitive";
+var long_prim = primitive.length;
+var
 
-resultat1 +=2;
-alert(resultat1);
+var chaine = new String("je suis un objet");
+
+alert('type de primitive :' + type_prim);
